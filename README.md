@@ -80,8 +80,8 @@ This project demonstrates detailed API testing, including status code validation
   - Response Length: Validate response contains expected number of student entries.
 ### Post-response Script:
 ```console 
-    pm.test("Verify status code is 200", function () {
-    pm.response.to.have.status(200);
+pm.test("Verify status code is 200", function () {
+pm.response.to.have.status(200);
 });
 
 var jsondata = pm.response.json();

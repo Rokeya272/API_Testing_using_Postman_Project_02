@@ -33,7 +33,7 @@ This project demonstrates detailed API testing, including status code validation
 1. Postman: If you haven't already, [download and install Postman.](https://www.postman.com/downloads/)
 2. Clone the repository:
    ```console 
-   https://github.com/Rokeya272/Project_02_API_Testing_using_Postman.git
+   https://github.com/Rokeya272/API_Testing_using_Postman_Project_02.git
    ```
 
 5. Import the Postman collection:
